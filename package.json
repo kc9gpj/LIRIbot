@@ -18,11 +18,8 @@
   },
   "homepage": "https://github.com/kc9gpj/LIRIbot#readme",
   "dependencies": {
-    "debug": "^3.1.0",
     "dotenv": "^6.0.0",
-    "inspect": "0.0.2",
-    "node-spotify-api": "^1.0.7",
-    "spotify": "^0.3.0",
+    "request": "^2.87.0",
     "spotify-web-api-node": "^3.1.1",
     "twitter": "^1.7.1"
   }
