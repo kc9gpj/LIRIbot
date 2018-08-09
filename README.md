@@ -1,5 +1,5 @@
 # LIRIbot
-https://kc9gpj.github.io/LIRIbot/
+Note: Twitter and spotify keys must be placed in keys.js for full functionality. 
 
 node liri.js my-tweets (will display last 20 tweets)
 
